@@ -1,0 +1,40 @@
+//Actual Tag
+[script]{TEXT}[/script]
+
+
+//Html In place
+<head>
+
+<script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+
+</head>
+
+<body>
+
+<div id="mediaplayer">The Link is B0rked.</div>
+
+
+
+<script type="text/javascript">
+
+  jwplayer("mediaplayer").setup({
+
+    flashplayer: "/jwplayer/player.swf",
+
+    provider: "http",
+
+    file: "{TEXT}",
+
+    width: 480,
+
+    height: 270
+
+    
+
+  });
+
+</script>
+
+
+
+</body>
