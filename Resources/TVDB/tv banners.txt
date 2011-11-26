@@ -1,0 +1,18 @@
+final URL
+http://thetvdb.com/banners/graphical/2077-g.jpg
+
+Zipped info
+fanart/original/73739-34.jpg
+
+fanart/vignette/73739-1.jpg
+
+
+Prefix for banner
+http://thetvdb.com/banners/
+
+(So we combine http://thetvdb.com/banners/ + fanart/vignette/73739-1.jpg)
+TVDb Key
+	FBDD279D0ED6D517
+
+Info on TV API
+http://www.thetvdb.com/wiki/index.php/Programmers_API
